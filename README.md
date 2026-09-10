@@ -1,5 +1,13 @@
-### Hi there, I'm Elizabethdavis 👋
+# Hi there, I'm Elizabeth Davis 👋
 
-- 🔭 Passionate about WebAssembly, modern browser capabilities, and offline-first apps.
-- 🏢 Working at Nexus Software Works
-- 📍 Based in Boston, MA
+Software Developer | Open Source Advocate
+
+📍 Based in **New York, NY**
+
+### 💻 Tech Stack & Interests
+- 🌐 Web Technologies: JavaScript, TypeScript, HTML5, CSS3
+- 🛠️ Tools & Environments: Git, Cloudflare, Linux, VS Code
+- 📚 Continuous Learner | Open-source enthusiast
+
+---
+*Self-taught developer building clean, high-performance web applications.*
